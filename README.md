@@ -3,7 +3,7 @@ construindo seu primeiro projeto lógico de banco de dados
 todas alterações foram descritas no codigo.
 
 Objetivo:
-[Aplique o mapeamento para o  cenário:
+Aplique o mapeamento para o  cenário:
 
 “Refine o modelo apresentado acrescentando os seguintes pontos”
 
@@ -16,3 +16,5 @@ Quantos pedidos foram feitos por cada cliente?
 Algum vendedor também é fornecedor?
 Relação de produtos fornecedores e estoques;
 Relação de nomes dos fornecedores e nomes dos produtos;
+
+
